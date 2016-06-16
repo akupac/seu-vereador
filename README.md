@@ -12,6 +12,9 @@
 **"INDEX_vereadores.ods":**
   Arquivo com informações centrais do cadastro eleitoral e do cadastro da CMPA. Ex: Coligação em que foram eleitos, ocupação, , limite de gastos para a campanha.
   
+**"open-sources.zip"**
+  Scripts usados para mineração e tratamento dos dados.
+  
 **"prestaca-contas.zip"**
   Receitas e despesas do decorrer da campanha eleitoral de cada vereador. Aqui constam as doações de campanha. Minerado do site do TSE. Tipo de arquivo: tsv/csv
   
